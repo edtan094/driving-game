@@ -1,0 +1,8 @@
+.background-gray {
+  background-color: rgb(126, 120, 120);
+}
+
+.shrink {
+  width: 100px;
+  height: auto;
+}
