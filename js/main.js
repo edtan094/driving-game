@@ -12,3 +12,6 @@ function rotateCar(event) {
     $car.setAttribute('class', 'east');
   }
 }
+
+var position = $car.getBoundingClientRect();
+console.log('Position: ', position);

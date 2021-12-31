@@ -5,6 +5,7 @@
 img {
   width: 100px;
   height: auto;
+  position: absolute;
 }
 
 .north {
