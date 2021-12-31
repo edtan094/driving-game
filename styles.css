@@ -5,6 +5,7 @@
 img {
   width: 100px;
   height: auto;
+  position: absolute;
 }
 
 .north {
@@ -25,4 +26,8 @@ img {
 .west {
   transform: rotate(180deg);
   transition: transform 0.5s;
+}
+
+body {
+  position: relative;
 }
