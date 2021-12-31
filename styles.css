@@ -27,3 +27,7 @@ img {
   transform: rotate(180deg);
   transition: transform 0.5s;
 }
+
+body {
+  position: relative;
+}
